@@ -1,0 +1,22 @@
+/* *{
+    box-sizing: border-box;
+} */
+
+.cardss{
+    box-sizing: border-box;
+}
+
+
+.row1-1{
+    box-shadow: rgb(0, 0, 0);
+    
+}
+/* .table-1{
+    padding: 70px;
+    border: 1px solid #4CAF50;
+} */
+
+table{
+    box-shadow: turquoise;
+    box-sizing: border-box;
+}
