@@ -9,7 +9,8 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Header from './Component/Header';
 import Footer from "./Component/Footer";
 // pages
-import Home from "./pages/Home";
+// import Home from "./pages/Home";
+import Home from "../../src/Grocery/pages/Home";
 // About pages
 import AboutUs from "./pages/About/AboutUs";
 import Blog from "./pages/About/Blog";
